@@ -1,0 +1,297 @@
+
+============================================
+
+   VETOR - 100 elementos - ORDENADO
+
+============================================
+
+Insercao (media): 0.00828 ms
+
+Busca Sequencial:
+  primeiro: 6.8E-4 ms
+  ultimo: 0.00108 ms
+  meio: 7.4E-4 ms
+  aleatorio1: 0.0011 ms
+  aleatorio2: 7.4E-4 ms
+  aleatorio3: 8.4E-4 ms
+  inexistente: 0.00148 ms
+
+Busca Binaria:
+  primeiro: 0.00138 ms
+  ultimo: 5.2E-4 ms
+  meio: 4.2E-4 ms
+  aleatorio1: 5.6E-4 ms
+  aleatorio2: 0.0011 ms
+  aleatorio3: 5.0E-4 ms
+  inexistente: 5.2E-4 ms
+
+Ordenacao:
+  BubbleSort: 0.21834 ms
+  MergeSort: 0.01254 ms
+
+--------------------------------------------
+
+
+============================================
+
+   VETOR - 100 elementos - INVERSO
+
+============================================
+
+Insercao (media): 0.00408 ms
+
+Busca Sequencial:
+  primeiro: 2.0E-4 ms
+  ultimo: 0.00182 ms
+  meio: 0.00114 ms
+  aleatorio1: 0.00152 ms
+  aleatorio2: 0.00146 ms
+  aleatorio3: 0.0018 ms
+  inexistente: 0.00174 ms
+
+Busca Binaria:
+  primeiro: 4.8E-4 ms
+  ultimo: 4.4E-4 ms
+  meio: 1.8E-4 ms
+  aleatorio1: 4.4E-4 ms
+  aleatorio2: 5.2E-4 ms
+  aleatorio3: 4.6E-4 ms
+  inexistente: 5.4E-4 ms
+
+Ordenacao:
+  BubbleSort: 0.21908 ms
+  MergeSort: 0.01214 ms
+
+--------------------------------------------
+
+
+============================================
+
+   VETOR - 100 elementos - ALEATORIO
+
+============================================
+
+Insercao (media): 0.00416 ms
+
+Busca Sequencial:
+  primeiro: 1.6E-4 ms
+  ultimo: 0.0013 ms
+  meio: 9.4E-4 ms
+  aleatorio1: 0.00102 ms
+  aleatorio2: 1.8E-4 ms
+  aleatorio3: 0.0011 ms
+  inexistente: 0.00228 ms
+
+Busca Binaria:
+  primeiro: 5.2E-4 ms
+  ultimo: 0.00332 ms
+  meio: 4.2E-4 ms
+  aleatorio1: 4.6E-4 ms
+  aleatorio2: 3.8E-4 ms
+  aleatorio3: 4.4E-4 ms
+  inexistente: 4.4E-4 ms
+
+Ordenacao:
+  BubbleSort: 0.1369 ms
+  MergeSort: 0.01054 ms
+
+--------------------------------------------
+
+
+============================================
+
+   VETOR - 1000 elementos - ORDENADO
+
+============================================
+
+Insercao (media): 0.03506 ms
+
+Busca Sequencial:
+  primeiro: 5.8E-4 ms
+  ultimo: 0.00274 ms
+  meio: 0.00206 ms
+  aleatorio1: 0.00164 ms
+  aleatorio2: 3.0E-4 ms
+  aleatorio3: 0.00132 ms
+  inexistente: 0.00444 ms
+
+Busca Binaria:
+  primeiro: 6.8E-4 ms
+  ultimo: 7.0E-4 ms
+  meio: 9.0E-4 ms
+  aleatorio1: 0.00116 ms
+  aleatorio2: 0.001 ms
+  aleatorio3: 0.00112 ms
+  inexistente: 8.2E-4 ms
+
+Ordenacao:
+  BubbleSort: 0.03518 ms
+  MergeSort: 0.07192 ms
+
+--------------------------------------------
+
+
+============================================
+
+   VETOR - 1000 elementos - INVERSO
+
+============================================
+
+Insercao (media): 0.03256 ms
+
+Busca Sequencial:
+  primeiro: 1.6E-4 ms
+  ultimo: 0.00372 ms
+  meio: 0.00204 ms
+  aleatorio1: 0.00172 ms
+  aleatorio2: 0.00316 ms
+  aleatorio3: 0.00208 ms
+  inexistente: 0.00536 ms
+
+Busca Binaria:
+  primeiro: 9.2E-4 ms
+  ultimo: 0.00102 ms
+  meio: 8.0E-4 ms
+  aleatorio1: 0.00206 ms
+  aleatorio2: 6.8E-4 ms
+  aleatorio3: 0.00138 ms
+  inexistente: 6.6E-4 ms
+
+Ordenacao:
+  BubbleSort: 1.72768 ms
+  MergeSort: 0.07378 ms
+
+--------------------------------------------
+
+
+============================================
+
+   VETOR - 1000 elementos - ALEATORIO
+
+============================================
+
+Insercao (media): 0.02298 ms
+
+Busca Sequencial:
+  primeiro: 2.0E-5 ms
+  ultimo: 0.00328 ms
+  meio: 0.00184 ms
+  aleatorio1: 1.6E-4 ms
+  aleatorio2: 0.00252 ms
+  aleatorio3: 0.00264 ms
+  inexistente: 0.00216 ms
+
+Busca Binaria:
+  primeiro: 8.2E-4 ms
+  ultimo: 7.2E-4 ms
+  meio: 7.2E-4 ms
+  aleatorio1: 7.4E-4 ms
+  aleatorio2: 0.00144 ms
+  aleatorio3: 7.0E-4 ms
+  inexistente: 6.4E-4 ms
+
+Ordenacao:
+  BubbleSort: 1.93098 ms
+  MergeSort: 0.11472 ms
+
+--------------------------------------------
+
+
+============================================
+
+   VETOR - 10000 elementos - ORDENADO
+
+============================================
+
+Insercao (media): 0.2657 ms
+
+Busca Sequencial:
+  primeiro: 2.0E-5 ms
+  ultimo: 0.02954 ms
+  meio: 0.01168 ms
+  aleatorio1: 0.00616 ms
+  aleatorio2: 0.01472 ms
+  aleatorio3: 8.0E-4 ms
+  inexistente: 0.04138 ms
+
+Busca Binaria:
+  primeiro: 0.00298 ms
+  ultimo: 0.00318 ms
+  meio: 0.00402 ms
+  aleatorio1: 0.0042 ms
+  aleatorio2: 0.00286 ms
+  aleatorio3: 0.0026 ms
+  inexistente: 0.00234 ms
+
+Ordenacao:
+  BubbleSort: 0.02862 ms
+  MergeSort: 0.98964 ms
+
+--------------------------------------------
+
+
+============================================
+
+   VETOR - 10000 elementos - INVERSO
+
+============================================
+
+Insercao (media): 0.10952 ms
+
+Busca Sequencial:
+  primeiro: 6.0E-5 ms
+  ultimo: 0.00394 ms
+  meio: 0.00198 ms
+  aleatorio1: 0.00118 ms
+  aleatorio2: 0.00298 ms
+  aleatorio3: 0.00256 ms
+  inexistente: 0.00324 ms
+
+Busca Binaria:
+  primeiro: 0.00298 ms
+  ultimo: 0.00374 ms
+  meio: 0.00168 ms
+  aleatorio1: 0.00586 ms
+  aleatorio2: 2.6E-4 ms
+  aleatorio3: 4.4E-4 ms
+  inexistente: 3.2E-4 ms
+
+Ordenacao:
+  BubbleSort: 54.3975 ms
+  MergeSort: 0.45392 ms
+
+--------------------------------------------
+
+
+============================================
+
+   VETOR - 10000 elementos - ALEATORIO
+
+============================================
+
+Insercao (media): 0.0453 ms
+
+Busca Sequencial:
+  primeiro: 2.0E-5 ms
+  ultimo: 0.00258 ms
+  meio: 0.00166 ms
+  aleatorio1: 0.00148 ms
+  aleatorio2: 0.0017 ms
+  aleatorio3: 5.0E-4 ms
+  inexistente: 0.00256 ms
+
+Busca Binaria:
+  primeiro: 8.0E-5 ms
+  ultimo: 1.2E-4 ms
+  meio: 8.0E-5 ms
+  aleatorio1: 1.0E-4 ms
+  aleatorio2: 1.0E-4 ms
+  aleatorio3: 1.2E-4 ms
+  inexistente: 1.2E-4 ms
+
+Ordenacao:
+  BubbleSort: 95.0797 ms
+  MergeSort: 1.37944 ms
+
+--------------------------------------------
+

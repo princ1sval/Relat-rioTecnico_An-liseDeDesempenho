@@ -1,0 +1,180 @@
+
+============================================
+
+   ARVORE AVL - 100 elementos - ORDENADO
+
+============================================
+
+Insercao (media): 0.33128 ms
+
+Busca:
+  primeiro: 0.00126 ms
+  ultimo: 6.2E-4 ms
+  meio: 7.4E-4 ms
+  aleatorio1: 0.0012 ms
+  aleatorio2: 6.4E-4 ms
+  aleatorio3: 3.8E-4 ms
+  inexsstente: 4.0E-4 ms
+
+--------------------------------------------
+
+
+============================================
+
+   ARVORE AVL - 100 elementos - INVERSO
+
+============================================
+
+Insercao (media): 0.01802 ms
+
+Busca:
+  primeiro: 0.00224 ms
+  ultimo: 3.6E-4 ms
+  meio: 0.0036 ms
+  aleatorio1: 0.00428 ms
+  aleatorio2: 2.8E-4 ms
+  aleatorio3: 2.8E-4 ms
+  inexsstente: 3.0E-4 ms
+
+--------------------------------------------
+
+
+============================================
+
+   ARVORE AVL - 100 elementos - ALEATORIO
+
+============================================
+
+Insercao (media): 0.03358 ms
+
+Busca:
+  primeiro: 2.4E-4 ms
+  ultimo: 1.4E-4 ms
+  meio: 2.0E-4 ms
+  aleatorio1: 1.8E-4 ms
+  aleatorio2: 1.4E-4 ms
+  aleatorio3: 1.8E-4 ms
+  inexsstente: 2.2E-4 ms
+
+--------------------------------------------
+
+
+============================================
+
+   ARVORE AVL - 1000 elementos - ORDENADO
+
+============================================
+
+Insercao (media): 0.1554 ms
+
+Busca:
+  primeiro: 8.6E-4 ms
+  ultimo: 6.4E-4 ms
+  meio: 5.4E-4 ms
+  aleatorio1: 5.8E-4 ms
+  aleatorio2: 6.2E-4 ms
+  aleatorio3: 8.6E-4 ms
+  inexsstente: 5.6E-4 ms
+
+--------------------------------------------
+
+
+============================================
+
+   ARVORE AVL - 1000 elementos - INVERSO
+
+============================================
+
+Insercao (media): 0.36246 ms
+
+Busca:
+  primeiro: 9.2E-4 ms
+  ultimo: 0.02016 ms
+  meio: 4.2E-4 ms
+  aleatorio1: 0.00228 ms
+  aleatorio2: 0.00106 ms
+  aleatorio3: 3.8E-4 ms
+  inexsstente: 1.6E-4 ms
+
+--------------------------------------------
+
+
+============================================
+
+   ARVORE AVL - 1000 elementos - ALEATORIO
+
+============================================
+
+Insercao (media): 0.21752 ms
+
+Busca:
+  primeiro: 1.2E-4 ms
+  ultimo: 2.4E-4 ms
+  meio: 3.4E-4 ms
+  aleatorio1: 1.6E-4 ms
+  aleatorio2: 1.6E-4 ms
+  aleatorio3: 1.0E-4 ms
+  inexsstente: 1.0E-4 ms
+
+--------------------------------------------
+
+
+============================================
+
+   ARVORE AVL - 10000 elementos - ORDENADO
+
+============================================
+
+Insercao (media): 1.0454 ms
+
+Busca:
+  primeiro: 0.00248 ms
+  ultimo: 0.0031 ms
+  meio: 5.2E-4 ms
+  aleatorio1: 6.4E-4 ms
+  aleatorio2: 4.8E-4 ms
+  aleatorio3: 2.2E-4 ms
+  inexsstente: 4.8E-4 ms
+
+--------------------------------------------
+
+
+============================================
+
+   ARVORE AVL - 10000 elementos - INVERSO
+
+============================================
+
+Insercao (media): 0.83466 ms
+
+Busca:
+  primeiro: 4.6E-4 ms
+  ultimo: 9.2E-4 ms
+  meio: 7.8E-4 ms
+  aleatorio1: 3.8E-4 ms
+  aleatorio2: 4.8E-4 ms
+  aleatorio3: 2.6E-4 ms
+  inexsstente: 2.0E-4 ms
+
+--------------------------------------------
+
+
+============================================
+
+   ARVORE AVL - 10000 elementos - ALEATORIO
+
+============================================
+
+Insercao (media): 1.28758 ms
+
+Busca:
+  primeiro: 4.2E-4 ms
+  ultimo: 0.00522 ms
+  meio: 2.8E-4 ms
+  aleatorio1: 2.4E-4 ms
+  aleatorio2: 4.2E-4 ms
+  aleatorio3: 3.2E-4 ms
+  inexsstente: 2.8E-4 ms
+
+--------------------------------------------
+

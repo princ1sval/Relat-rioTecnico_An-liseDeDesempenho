@@ -1,0 +1,180 @@
+
+============================================
+
+   ARVORE BINARIA - 100 elementos - ORDENADO
+
+============================================
+
+Insercao (media): 0.2564 ms
+
+Busca:
+  primeiro: 7.6E-4 ms
+  ultimo: 0.00662 ms
+  meio: 0.00256 ms
+  aleatorio1: 9.0E-4 ms
+  aleatorio2: 0.00126 ms
+  aleatorio3: 4.0E-4 ms
+  inexistente: 0.0022 ms
+
+--------------------------------------------
+
+
+============================================
+
+   ARVORE BINARIA - 100 elementos - INVERSO
+
+============================================
+
+Insercao (media): 0.14146 ms
+
+Busca:
+  primeiro: 3.6E-4 ms
+  ultimo: 0.001 ms
+  meio: 8.0E-4 ms
+  aleatorio1: 0.00498 ms
+  aleatorio2: 0.00106 ms
+  aleatorio3: 9.2E-4 ms
+  inexistente: 0.00134 ms
+
+--------------------------------------------
+
+
+============================================
+
+   ARVORE BINARIA - 100 elementos - ALEATORIO
+
+============================================
+
+Insercao (media): 0.00832 ms
+
+Busca:
+  primeiro: 2.8E-4 ms
+  ultimo: 3.8E-4 ms
+  meio: 2.2E-4 ms
+  aleatorio1: 2.0E-4 ms
+  aleatorio2: 2.2E-4 ms
+  aleatorio3: 2.8E-4 ms
+  inexistente: 2.8E-4 ms
+
+--------------------------------------------
+
+
+============================================
+
+   ARVORE BINARIA - 1000 elementos - ORDENADO
+
+============================================
+
+Insercao (media): 3.80528 ms
+
+Busca:
+  primeiro: 0.0021 ms
+  ultimo: 0.0219 ms
+  meio: 0.00382 ms
+  aleatorio1: 0.00556 ms
+  aleatorio2: 0.0052 ms
+  aleatorio3: 0.00428 ms
+  inexistente: 0.0019 ms
+
+--------------------------------------------
+
+
+============================================
+
+   ARVORE BINARIA - 1000 elementos - INVERSO
+
+============================================
+
+Insercao (media): 3.55454 ms
+
+Busca:
+  primeiro: 0.00134 ms
+  ultimo: 0.01008 ms
+  meio: 0.00352 ms
+  aleatorio1: 0.0034 ms
+  aleatorio2: 0.00646 ms
+  aleatorio3: 0.00246 ms
+  inexistente: 0.00422 ms
+
+--------------------------------------------
+
+
+============================================
+
+   ARVORE BINARIA - 1000 elementos - ALEATORIO
+
+============================================
+
+Insercao (media): 0.09368 ms
+
+Busca:
+  primeiro: 2.0E-5 ms
+  ultimo: 0.00244 ms
+  meio: 6.0E-5 ms
+  aleatorio1: 4.0E-5 ms
+  aleatorio2: 1.0E-4 ms
+  aleatorio3: 1.0E-4 ms
+  inexistente: 8.0E-5 ms
+
+--------------------------------------------
+
+
+============================================
+
+   ARVORE BINARIA - 10000 elementos - ORDENADO
+
+============================================
+
+Insercao (media): 303.1723 ms
+
+Busca:
+  primeiro: 0.00334 ms
+  ultimo: 0.0432 ms
+  meio: 0.01964 ms
+  aleatorio1: 0.03908 ms
+  aleatorio2: 0.01698 ms
+  aleatorio3: 0.02412 ms
+  inexistente: 2.0E-4 ms
+
+--------------------------------------------
+
+
+============================================
+
+   ARVORE BINARIA - 10000 elementos - INVERSO
+
+============================================
+
+Insercao (media): 286.39228 ms
+
+Busca:
+  primeiro: 8.0E-5 ms
+  ultimo: 0.0411 ms
+  meio: 0.02058 ms
+  aleatorio1: 0.0174 ms
+  aleatorio2: 0.03108 ms
+  aleatorio3: 0.03314 ms
+  inexistente: 0.04982 ms
+
+--------------------------------------------
+
+
+============================================
+
+   ARVORE BINARIA - 10000 elementos - ALEATORIO
+
+============================================
+
+Insercao (media): 0.99874 ms
+
+Busca:
+  primeiro: 4.0E-5 ms
+  ultimo: 1.2E-4 ms
+  meio: 6.0E-5 ms
+  aleatorio1: 1.6E-4 ms
+  aleatorio2: 1.2E-4 ms
+  aleatorio3: 1.2E-4 ms
+  inexistente: 6.0E-5 ms
+
+--------------------------------------------
+
